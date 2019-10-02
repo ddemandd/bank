@@ -1,0 +1,9 @@
+D:\proj\02102019_ink\02102019_ink\bin\Debug\02102019_ink.exe.config
+D:\proj\02102019_ink\02102019_ink\obj\Debug\02102019_ink.csprojResolveAssemblyReference.cache
+D:\proj\02102019_ink\02102019_ink\bin\Debug\02102019_ink.exe
+D:\proj\02102019_ink\02102019_ink\bin\Debug\02102019_ink.pdb
+D:\proj\02102019_ink\02102019_ink\obj\Debug\02102019_ink.exe
+D:\proj\02102019_ink\02102019_ink\obj\Debug\02102019_ink.pdb
+D:\GitHub\bank\02102019_ink\02102019_ink\bin\Debug\02102019_ink.exe.config
+D:\GitHub\bank\02102019_ink\02102019_ink\obj\Debug\02102019_ink.exe
+D:\GitHub\bank\02102019_ink\02102019_ink\obj\Debug\02102019_ink.pdb
